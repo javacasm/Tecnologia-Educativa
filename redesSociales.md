@@ -22,3 +22,5 @@ EducaConCiencia.com @EducaConCiencia https://www.youtube.com/channel/UCkNhInWC4S
 [stemxion](http://stemxion.com/campamento-de-verano-malaga-stemxion/) Malaga
 
 [edurobotic](http://www.edurobotic.es/colonias-tecnologicas-bilbao/) Bilbao
+
+[colonia Etopia](http://www.coloniaetopia.es/) Zaragoza
