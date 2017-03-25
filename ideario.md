@@ -4,16 +4,18 @@ Ellos nacen tecnólogos, y absorben todos los conocimientos que a nosotros nos d
 
 
 
-Ellos nacen tecnólogos, ingenieros, arquitectos y nosotros los obligamos a sentarse a leer. #TecnologiaEducativa
+Ellos nacen tecnólogos, ingenieros, arquitectos y nosotros los obligamos a sentarse a leer. 
 
-
-
-
+#TecnologiaEducativa
 
 Para mí el ámbito es mucho más que solamente el 3D 
-se trata de aplicar de una forma horizontal recursos tecnológicos para poder utilizarlos como herramientas  en el aprendizaje de otras disciplinas 
+
+Se trata de aplicar de una forma horizontal recursos tecnológicos para poder utilizarlos como herramientas  en el aprendizaje de otras disciplinas 
+
 No se trata de aprender a utilizar la tecnología si no de utilizar la tecnología para aprender
+
 No se trata aprender a usar una impresora 3D o aprender hacer un programa
+
 Se trata de aprender Matemáticas, Física, Informática, ingeniería, mecánica, química,....  pero utilizando las herramientas actuales.
 
 Por eso decimos que los tres pilares serían el diseño 3D, la programación y la electrónica 
@@ -36,4 +38,3 @@ Debemos liberar nuestros logros, permitiendo que otros basándose en ellos llegu
 
 No nos debe dar miedo que otros vean lo que hacemos si nos hemos esforzado en hacerle lo mejor que podemos.
 
-podemos usar
