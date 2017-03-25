@@ -1,4 +1,6 @@
-La tecnología ha llegado para quedarse. Los niños la usan desde que nacen, y nosotros ¿sabemos usarla, aprovecharla #TecnologiaEducativa 
+La tecnología ha llegado para quedarse. Los niños la usan desde que nacen, y nosotros ¿sabemos usarla, aprovecharla
+
+#TecnologiaEducativa 
 
 Ellos nacen tecnólogos, y absorben todos los conocimientos que a nosotros nos dan miedo.
 
@@ -19,8 +21,8 @@ No se trata aprender a usar una impresora 3D o aprender hacer un programa
 Se trata de aprender Matemáticas, Física, Informática, ingeniería, mecánica, química,....  pero utilizando las herramientas actuales.
 
 Por eso decimos que los tres pilares serían el diseño 3D, la programación y la electrónica 
-Podemos englobar estos conocimientos dentro de la palabra tecnología.
 
+Podemos englobar estos conocimientos dentro de la palabra tecnología.
 
 Podemos y debemos usar la tecnología para aprender
 
